@@ -1,0 +1,9 @@
+{
+  "name": "hindi_wordnet",
+  "title": "Hindi WordNet (हिन्दी शब्दतंत्र)",
+  "id": "jid1-WdiKHE22AeABPQ",
+  "description": "Hindi WordNet provides you free access to more than one lakh words in its lexical database. The dictionary like structure is multilingual, and translations to respective other languages and English are also available.",
+  "author": "Diptesh Kanojia (CFILT)",
+  "license": "MPL 2.0",
+  "version": "0.0.2"
+}
